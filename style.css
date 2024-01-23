@@ -1,0 +1,16 @@
+.box{
+    width: 300px;
+    height: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmFf4OY6eWkCvYSAtXWjUGMcrGrumSIVI8y0x4IYQEQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.box1{
+    width: 300px;
+    height: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmFf4OY6eWkCvYSAtXWjUGMcrGrumSIVI8y0x4IYQEQ&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
